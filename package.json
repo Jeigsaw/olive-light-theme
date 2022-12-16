@@ -1,0 +1,28 @@
+{
+  "name": "olive-light-theme",
+  "displayName": "Olive Light Theme",
+  "description": "A light theme with olive accent",
+  "version": "1.0.0",
+  "publisher": "Jeigsaw",
+  "author": "Jeigsaw",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Jeigsaw/olive-light-theme.git"
+	},
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Olive Light Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Olive Light Theme-color-theme.json"
+      }
+    ]
+  }
+}

@@ -21,7 +21,7 @@
       {
         "label": "Olive Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/Olive Light Theme-color-theme.json"
+        "path": "./themes/olive-light-color-theme.json"
       }
     ]
   }

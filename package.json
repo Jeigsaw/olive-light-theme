@@ -2,7 +2,7 @@
   "name": "olive-light-theme",
   "displayName": "Olive Light Theme",
   "description": "A simple light theme for VS Code with an olive accent!",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Jeigsaw",
   "author": "Jeigsaw",
   "engines": {
